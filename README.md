@@ -1,5 +1,9 @@
 ### Hi there 👋
+I am Eric A.K.A. @isopropilick, I am a software developer from Mexico, I currently work as SDET at VASION.
 
+My main languages are Python and JavaScript but I am not afraid to touch any language in general I enjoy working more on hardware projects (electronics and IoT) than on software ones.
+
+I am currently learning some GOlang and practicing my skills in CNC and 3D printing techniques. 
 <!--
 **isopropilick/isopropilick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isopropilick&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isopropilick&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isopropilick&layout=compact&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isopropilick&show_icons=true&theme=dark)
