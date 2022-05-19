@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Eric A.K.A. @isopropilick, I am a software developer from Mexico, I currently work as SDET at VASION.
+I am Eric A.K.A. @isopropilick, I am a software developer from Mexico.
 
 My main languages are Python and JavaScript but I am not afraid to touch any language in general I enjoy working more on hardware projects (electronics and IoT) than on software ones.
 
