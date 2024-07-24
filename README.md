@@ -9,5 +9,5 @@ My main languages are Python and JavaScript but I am not afraid to touch any lan
 
 Take a look on my [portfolio](https://github.com/isopropilick/Portfolio) :) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isopropilick&layout=compact&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isopropilick&show_icons=true&theme=dark)
+![Top Langs](https://stats-pink-theta.vercel.app/api/top-langs/?username=isopropilick&layout=compact&theme=dark)
+![Anurag's GitHub stats](https://stats-pink-theta.vercel.app/api?username=isopropilick&show_icons=true&theme=dark)
